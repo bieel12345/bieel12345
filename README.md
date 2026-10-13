@@ -47,7 +47,7 @@ Sóc en Biel, de **Dosrius** (Maresme). M'agrada entendre com funcionen els equi
 ## Contacte
 
 <p>
-  <a href="https://github.com/EL_TEU_USUARI"><img src="https://img.shields.io/badge/GitHub-EL__TEU__USUARI-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/bieel12345"><img src="https://img.shields.io/badge/GitHub-EL__TEU__USUARI-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="mailto:el.teu.correu@exemple.com"><img src="https://img.shields.io/badge/Correu-Escriu--me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Correu" /></a>
   <a href="https://www.linkedin.com/in/el-teu-perfil"><img src="https://img.shields.io/badge/LinkedIn-El_meu_perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
